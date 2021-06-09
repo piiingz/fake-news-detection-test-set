@@ -4,7 +4,8 @@
 
 ### Dataset information 
 * Consists of in total 434 articles, 217 of each class 
-* Articles are mainly from 2017 and 2018, but some are from before 2017. 
+* Articles are mainly from 2017 and 2018, but some are from before 2017
+* The articles in this dataset has been manually cleaned, to remove empty articles/titles, advertisement etc. 
 
 The dataset is assembled from three different datasets:
 1.  [FakeNewsNet](https://github.com/KaiDMML/FakeNewsNet) (The Politifact dataset) - 217 fake and 73 real articles 
